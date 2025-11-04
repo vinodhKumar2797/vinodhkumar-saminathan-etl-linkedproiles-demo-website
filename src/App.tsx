@@ -4,6 +4,7 @@ import AuthPage from './components/Auth/AuthPage';
 import UserDashboard from './components/UserDashboard';
 
 function App() {
+  console.log("user")
   const [isAuthenticated, setIsAuthenticated] = useState(false);
   const [loading, setLoading] = useState(true);
 
@@ -14,7 +15,8 @@ function App() {
   const checkAuth = async () => {
     try {
       const user = await auth.getCurrentUser();
-      setIsAuthenticated(!!user);
+    
+      setIsAuthenticated(user?true:false);
     } catch (error) {
       setIsAuthenticated(false);
     } finally {
