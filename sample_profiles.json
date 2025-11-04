@@ -1,0 +1,224 @@
+[
+  {
+    "linkedin_id": "emp001",
+    "full_name": "Alice Johnson",
+    "headline": "VP Engineering",
+    "location": "Seattle, WA",
+    "summary": "Strategic technology leader with 15+ years building high-performing teams and scaling organizations",
+    "experience": [
+      {
+        "company": "TechCorp Industries",
+        "title": "VP Engineering",
+        "start_date": "2019-01",
+        "description": "Led engineering org of 150+ engineers, established best practices and architecture standards",
+        "location": "Seattle, WA"
+      },
+      {
+        "company": "CloudSystem Solutions",
+        "title": "Senior Engineering Manager",
+        "start_date": "2016-06",
+        "end_date": "2018-12",
+        "description": "Managed 30 engineers across infrastructure and backend teams",
+        "location": "San Francisco, CA"
+      }
+    ],
+    "education": [
+      {
+        "school": "Stanford University",
+        "degree": "MS",
+        "field_of_study": "Computer Science",
+        "start_year": 2002,
+        "end_year": 2004
+      },
+      {
+        "school": "UC Berkeley",
+        "degree": "BS",
+        "field_of_study": "Electrical Engineering",
+        "start_year": 1998,
+        "end_year": 2002
+      }
+    ],
+    "skills": [
+      "Leadership",
+      "System Architecture",
+      "Cloud Infrastructure",
+      "Team Building",
+      "AWS",
+      "Kubernetes"
+    ],
+    "connections_count": 2500,
+    "profile_url": "https://linkedin.com/in/alicejohnson",
+    "profile_image_url": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
+  },
+  {
+    "linkedin_id": "emp002",
+    "full_name": "Bob Williams",
+    "headline": "Senior Software Engineer",
+    "location": "New York, NY",
+    "summary": "Full-stack developer passionate about scalable systems and mentoring junior engineers",
+    "experience": [
+      {
+        "company": "DataFlow Inc",
+        "title": "Senior Software Engineer",
+        "start_date": "2020-03",
+        "description": "Built real-time data processing pipelines handling millions of events daily",
+        "location": "New York, NY"
+      },
+      {
+        "company": "WebScale StartUp",
+        "title": "Backend Engineer",
+        "start_date": "2017-09",
+        "end_date": "2020-02",
+        "description": "Developed core APIs and microservices in Node.js and PostgreSQL",
+        "location": "New York, NY"
+      }
+    ],
+    "education": [
+      {
+        "school": "Carnegie Mellon University",
+        "degree": "BS",
+        "field_of_study": "Computer Science",
+        "start_year": 2013,
+        "end_year": 2017
+      }
+    ],
+    "skills": [
+      "TypeScript",
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "Docker",
+      "AWS"
+    ],
+    "connections_count": 1800,
+    "profile_url": "https://linkedin.com/in/bobwilliams",
+    "profile_image_url": "https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg"
+  },
+  {
+    "linkedin_id": "emp003",
+    "full_name": "Carol Davis",
+    "headline": "Product Manager",
+    "location": "San Francisco, CA",
+    "summary": "Product visionary focused on user-centric design and data-driven decision making",
+    "experience": [
+      {
+        "company": "InnovateTech",
+        "title": "Senior Product Manager",
+        "start_date": "2021-05",
+        "description": "Led product strategy for SaaS platform serving 10,000+ customers"
+      },
+      {
+        "company": "GrowthLabs",
+        "title": "Product Manager",
+        "start_date": "2018-10",
+        "end_date": "2021-04",
+        "description": "Managed feature roadmap and drove user engagement initiatives"
+      }
+    ],
+    "education": [
+      {
+        "school": "University of California Berkeley",
+        "degree": "MBA",
+        "start_year": 2016,
+        "end_year": 2018
+      },
+      {
+        "school": "University of Washington",
+        "degree": "BA",
+        "field_of_study": "Economics",
+        "start_year": 2012,
+        "end_year": 2016
+      }
+    ],
+    "skills": [
+      "Product Strategy",
+      "User Research",
+      "Analytics",
+      "Roadmap Planning",
+      "A/B Testing"
+    ],
+    "connections_count": 2100,
+    "profile_url": "https://linkedin.com/in/caroldavis"
+  },
+  {
+    "linkedin_id": "emp004",
+    "full_name": "David Chen",
+    "headline": "Data Scientist",
+    "location": "Austin, TX",
+    "summary": "Machine learning expert specializing in NLP and recommendation systems",
+    "experience": [
+      {
+        "company": "AIFirst Corp",
+        "title": "Senior Data Scientist",
+        "start_date": "2020-08",
+        "description": "Built ML pipelines for personalization increasing engagement by 35%"
+      },
+      {
+        "company": "DataMining Solutions",
+        "title": "Data Scientist",
+        "start_date": "2018-02",
+        "end_date": "2020-07",
+        "description": "Developed predictive models for customer churn and lifetime value"
+      }
+    ],
+    "education": [
+      {
+        "school": "University of Texas at Austin",
+        "degree": "MS",
+        "field_of_study": "Machine Learning",
+        "start_year": 2016,
+        "end_year": 2018
+      }
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "Machine Learning",
+      "SQL",
+      "BigQuery",
+      "PyTorch"
+    ],
+    "connections_count": 1400,
+    "profile_url": "https://linkedin.com/in/davidchen"
+  },
+  {
+    "linkedin_id": "emp005",
+    "full_name": "Emma Rodriguez",
+    "headline": "UX Designer",
+    "location": "Los Angeles, CA",
+    "summary": "Design-thinking advocate creating intuitive digital experiences across mobile and web",
+    "experience": [
+      {
+        "company": "DesignStudio Pro",
+        "title": "Lead UX Designer",
+        "start_date": "2019-11",
+        "description": "Led design system overhaul improving developer productivity by 40%"
+      },
+      {
+        "company": "MobileFirst Apps",
+        "title": "UX Designer",
+        "start_date": "2017-04",
+        "end_date": "2019-10",
+        "description": "Designed mobile apps with 4.8+ star ratings across app stores"
+      }
+    ],
+    "education": [
+      {
+        "school": "Art Center College of Design",
+        "degree": "BFA",
+        "field_of_study": "Interaction Design",
+        "start_year": 2013,
+        "end_year": 2017
+      }
+    ],
+    "skills": [
+      "UI/UX Design",
+      "Figma",
+      "User Testing",
+      "Prototyping",
+      "Design Systems"
+    ],
+    "connections_count": 950,
+    "profile_url": "https://linkedin.com/in/emmarodriguez"
+  }
+]
